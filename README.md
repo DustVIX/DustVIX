@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm DustVIX</h1>
-<h3 align="center">A passionate frontend developer from yemen</h3>
+<h3 align="center">A passionate frontend developer from yemen :D</h3>
 
-- 🔭 I’m currently working on **i hate this site**
 
-- 🌱 I’m currently learning **css, react bootstart**
-
-- 💬 Ask me about **JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, JavaSript, BootStart and React**
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
