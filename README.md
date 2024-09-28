@@ -1,5 +1,5 @@
 <h1 align="center">DustVIX</h1>
-<h3 align="center">A passionate frontend developer :D</h3>
+
 
 <hr>
 <h3 align="center">Languages and Tools</h3>
