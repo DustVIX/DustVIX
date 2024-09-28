@@ -1,6 +1,6 @@
 <h1 align="center">DustVIX</h1>
 <div align="center" >
-  <img  src="https://i.pinimg.com/originals/41/60/61/416061b9d95e206d7bbeb51e644cca6e.gif">  
+  <img  src="https://i.pinimg.com/originals/81/97/63/819763d9c6b741f7a32ffee62d76db25.gif">  
 <div>
 
 <hr>
