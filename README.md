@@ -16,23 +16,3 @@
   <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
-
-
-<br/>
-
-
-
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://instagram.com/dustvix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dustvix" height="30" width="40" /></a>
-<a href="https://discord.gg/ChQ3QFDU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dustvix" height="30" width="40" /></a>
-</p>
-
-
-
-
-<!---
-DustVIX/DustVIX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
